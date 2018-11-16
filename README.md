@@ -1,5 +1,5 @@
-# awesome_machine_learning_reliability_robustness_security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Paper collection regarding deep/machine learning reliability, robustness, and security
+# awesome_machine_learning_reliability [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+Awesome papers regarding machine learning reliability related topics
 
 # Adversarial Machine Learning
 
