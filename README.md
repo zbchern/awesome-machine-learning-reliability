@@ -16,7 +16,9 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 
 * [ICLR18] [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083) - Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, and Adrian Vladu. [code (mnist)](https://github.com/MadryLab/mnist_challenge), [code (cifar10)](https://github.com/MadryLab/cifar10_challenge)
 
-### Representation
+### Compression
+
+* [IEEE S&P16] [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/abs/1511.04508) - Nicolas Papernot, Patrick McDaniel, Xi Wu, Somesh Jha, and Ananthram Swami.
 
 ### Bayesian Method
 
