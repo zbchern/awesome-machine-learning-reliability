@@ -7,7 +7,11 @@ Paper collection regarding deep/machine learning reliability, robustness, and se
 
 ## Adversarial Attack
 
+### Natural Language Processing
+
 ## Adversarial Defense
+
+### Natural Language Processing
 
 ### Adversarial Training
 
