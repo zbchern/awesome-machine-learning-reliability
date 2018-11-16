@@ -7,8 +7,6 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 
 ## Adversarial Attack
 
-### Natural Language Processing
-
 ## Adversarial Defense
 
 ### Adversarial Training
@@ -21,6 +19,6 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 
 ### Adversarial Detection
 
-### Natural Language Processing
+## Natural Language Processing
 
 # Machine Learning Testing
