@@ -21,4 +21,6 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 
 ## Natural Language Processing
 
+[ACL][2018] Towards Robust Neural Machine Translation
+
 # Machine Learning Testing
