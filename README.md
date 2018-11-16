@@ -13,7 +13,7 @@ Awesome papers regarding machine learning reliability related topics.
 
 ### Adversarial Training
 
-* [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083) - Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, Adrian Vladu. ICLR 2018.
+* [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083) - Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, Adrian Vladu. ICLR 2018. [code (mnist)](https://github.com/MadryLab/mnist_challenge), [code (cifar10)](https://github.com/MadryLab/cifar10_challenge)
 
 ### Representation
 
