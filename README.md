@@ -5,23 +5,42 @@
 A curated list of awesome papers regarding machine learning reliability, inspired by [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) and [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning).
 
 ## Contents
-- [Computer Vision](#computer-vision)
-    - [Benchmarking](#benchmarking)
-    - [Attack](#attack)
-        - [Classification](#classification)
-        - [Other CV Tasks](#other-cv-tasks)
-        - [Real-World Attack](#real-world-attack)
-    - [Defense](#defense)
-        - [Adversarial Training](#adversarial-training)
-        - [Detection](#detection)
-        - [Model Compression](#model-compression)
-- [Natural Language Processing and Speech](#natural-language-processing-and-speech)
-- [Testing](#testing)
-- [Empirical Study](#empirical-study)
-- [Survey](#survey)
-- [Other Applications](#other-applications)
-- [Other Resources](#other-resources)
+- [Conferences] (#conferences)
+- [Journals](#journals)
+- [Competitions] (#competitions)
+- [Papers](#papers)
+    - [Computer Vision](#computer-vision)
+        - [Benchmarking](#benchmarking)
+        - [Attack](#attack)
+            - [Classification](#classification)
+            - [Other CV Tasks](#other-cv-tasks)
+            - [Real-World Attack](#real-world-attack)
+        - [Defense](#defense)
+            - [Adversarial Training](#adversarial-training)
+            - [Detection](#detection)
+            - [Model Compression](#model-compression)
+    - [Natural Language Processing and Speech](#natural-language-processing-and-speech)
+    - [Testing](#testing)
+    - [Empirical Study](#empirical-study)
+    - [Survey](#survey)
+    - [Other Applications](#other-applications)
+    - [Other Resources](#other-resources)
 
+
+## Conferences
+* [ACM Conference on Computer and Communications Security (CCS)](https://www.sigsac.org/ccs/CCS2018/papers/)
+* [IEEE Symposium on Security and Privacy (S&P)](https://www.ieee-security.org/TC/SP2018/)
+* [Usenix Security Symposium (Usenix Security)](https://www.usenix.org/conference/usenixsecurity18)
+* [The Network and Distributed System Security Symposium (NDSS)](https://www.ndss-symposium.org/)
+
+###### *[Conference Deadlines](https://zbchern.github.io/conferences/)*
+
+## Journals
+
+## Competitions
+* [NIPS Adversarial Vision Challenge](https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge)
+
+## Papers
 
 ### Computer Vision
 
@@ -58,7 +77,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 
 #### Model Compression
 
-* [IEEE S&P16] [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/abs/1511.04508) - Nicolas Papernot, Patrick McDaniel, Xi Wu, Somesh Jha, and Ananthram Swami.
+* [S&P16] [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/abs/1511.04508) - Nicolas Papernot, Patrick McDaniel, Xi Wu, Somesh Jha, and Ananthram Swami.
 
 
 ## Natural Language Processing and Speech
