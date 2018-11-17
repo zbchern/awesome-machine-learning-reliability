@@ -5,9 +5,9 @@
 A curated list of awesome papers regarding machine learning reliability, inspired by [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) and [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning).
 
 ## Contents
-- [Conferences] (#conferences)
+- [Conferences](#conferences)
 - [Journals](#journals)
-- [Competitions] (#competitions)
+- [Competitions](#competitions)
 - [Papers](#papers)
     - [Computer Vision](#computer-vision)
         - [Benchmarking](#benchmarking)
@@ -41,14 +41,11 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 * [NIPS Adversarial Vision Challenge](https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge)
 
 ## Papers
-
 ### Computer Vision
-
 #### Benchmarking
 * [ICLR19_Submission] [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://openreview.net/forum?id=HJz6tiCqYm) - Anonymous Authors.
  
 #### Attack
-
 ##### Classification
 * [ICML18] [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://nicholas.carlini.com/papers/2018_icml_obfuscatedgradients.pdf) - Anish Athalye*, Nicholas Carlini*, and David Wagner. [[code]](https://github.com/anishathalye/obfuscated-gradients) [[talk]](https://nicholas.carlini.com/talks/2018_icml_obfuscatedgradients.mp4)
 * [S&P17] [Towards Evaluating the Robustness of Neural Networks](https://nicholas.carlini.com/papers/2017_sp_nnrobustattacks.pdf) - Nicholas Carlini and David Wagner. [[talk]](https://www.youtube.com/watch?v=yIXNL88JBWQ)
