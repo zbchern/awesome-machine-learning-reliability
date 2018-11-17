@@ -2,7 +2,7 @@
 ![Awesome Machine Learning On Source Code](img/adversarial_example.png)
 > ###### <p align="right"> *Figure from "[Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)" by Goodfellow et al. ICLR15*</p>
 
-A curated list of awesome papers regarding machine learning reliability, inspired by [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) and [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning).
+A curated list of awesome papers regarding machine learning reliability, inspired by [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code) and [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning).
 
 ## Contents
 - [Conferences](#conferences)
