@@ -25,6 +25,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
     - [Survey](#survey)
     - [Other Applications](#other-applications)
     - [Other Resources](#other-resources)
+- [License](#license)
 
 
 ## Conferences
