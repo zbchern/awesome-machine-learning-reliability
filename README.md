@@ -4,6 +4,25 @@
 
 A curated list of awesome papers regarding machine learning reliability, inspired by [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) and [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning).
 
+## Contents
+- [Computer Vision](#computer-vision)
+    - [Benchmarking](#benchmarking)
+    - [Attack](#attack)
+        - [Classification](#classification)
+        - [Other CV Tasks](#other-cv-tasks)
+        - [Real-World Attack](#real-world-attack)
+    - [Defense](#defense)
+        - [Adversarial Training](#adversarial-training)
+        - [Detection](#detection)
+        - [Model Compression](#model-compression)
+- [Natural Language Processing and Speech](#natural-language-processing-and-speech)
+- [Testing](#testing)
+- [Empirical Study](#empirical-study)
+- [Survey](#survey)
+- [Other Applications](#other-applications)
+- [Other Resources](#other-resources)
+
+
 ## Computer Vision
 
 ### Benchmarking
@@ -76,5 +95,5 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 * [Arxiv17] [Black-Box Attacks against RNN based Malware Detection Algorithms](https://arxiv.org/abs/1705.08131) - Weiwei Hu, Ying Tan
 
 
-# Other Resources
+## Other Resources
 * [Trustworthy Machine Learning](http://trustworthymachinelearning.org/) - A suite of tools for making machine learning secure and trustworthy
