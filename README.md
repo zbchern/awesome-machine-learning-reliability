@@ -17,6 +17,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
             - [Real-World Attack](#real-world-attack)
         - [Defense](#defense)
             - [Adversarial Training](#adversarial-training)
+            - [Manifold Projections](#manifold-projections)
             - [Detection](#detection)
             - [Model Compression](#model-compression)
     - [Natural Language Processing and Speech](#natural-language-processing-and-speech)
@@ -71,12 +72,13 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 
 ### Defense
 
-* [CCS17] [MagNet: A Two-Pronged Defense against Adversarial Examples](https://dl.acm.org/citation.cfm?id=3134057) - Dongyu Meng, Hao Chen.
-
 #### Adversarial Training
 
 * [ICLR18] [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083) - Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, and Adrian Vladu. [[code (mnist)]](https://github.com/MadryLab/mnist_challenge) [[code (cifar10)]](https://github.com/MadryLab/cifar10_challenge)
 * [ICLR18] [Generating Natural Adversarial Examples](https://arxiv.org/abs/1710.11342) - Zhengli Zhao, Dheeru Dua, Sameer Singh
+
+#### Manifold Projections
+* [CCS17] [MagNet: A Two-Pronged Defense against Adversarial Examples](https://dl.acm.org/citation.cfm?id=3134057) - Dongyu Meng and Hao Chen.
 
 #### Detection
 
