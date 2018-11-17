@@ -29,10 +29,19 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 
 
 ## Conferences
+### Security
 * [ACM Conference on Computer and Communications Security (CCS)](https://www.sigsac.org/ccs/CCS2018/papers/)
 * [IEEE Symposium on Security and Privacy (S&P)](https://www.ieee-security.org/TC/SP2018/)
 * [Usenix Security Symposium (Usenix Security)](https://www.usenix.org/conference/usenixsecurity18)
 * [The Network and Distributed System Security Symposium (NDSS)](https://www.ndss-symposium.org/)
+### Machine Learning
+* [International Conference on Learning Representations (ICLR)](https://www.iclr.cc/)
+* [Annual Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc/)
+* [International Conference on Machine Learning (ICML)](https://icml.cc/)
+### Natural Language Processing
+* [Conference on Empirical Methods in Natural Language Processing (EMNLP)](http://emnlp2018.org/)
+* [Annual Meeting of the Association for Computational Linguistics (ACL)](http://www.acl2019.org/EN/index.xhtml)
+
 
 ###### *[Conference Deadlines](https://zbchern.github.io/conferences/)*
 
