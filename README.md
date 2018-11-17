@@ -53,8 +53,6 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 
 ## Papers
 ### Computer Vision
-#### Benchmarking
-* [ICLR19_Submission] [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://openreview.net/forum?id=HJz6tiCqYm) - Anonymous Authors.
  
 #### Attack
 ##### Classification
@@ -69,6 +67,9 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 
 #### Real-World Attack
 * [CVPR18] [Robust Physical-World Attacks on Deep Learning Models](https://arxiv.org/abs/1707.08945) - Kevin Eykholt, Ivan Evtimov, Earlence Fernandes, Bo Li, Amir Rahmati, Chaowei Xiao, Atul Prakash, Tadayoshi Kohno, and Dawn Song.
+
+#### Benchmarking
+* [ICLR19_Submission] [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://openreview.net/forum?id=HJz6tiCqYm) - Anonymous Authors.
 
 ### Defense
 
