@@ -93,20 +93,36 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 
 
 ## Natural Language Processing and Speech
+* [MILCOM16] [Crafting Adversarial Input Sequences for Recurrent Neural Networks](https://arxiv.org/abs/1604.08275) - Nicolas Papernot, Patrick McDaniel, Ananthram Swami, and Richard Harang.
+
 * [Arxiv18] [Identifying and Controlling Important Neurons in Neural Machine Translation](https://arxiv.org/abs/1811.01157) - Anthony Bau, Yonatan Belinkov, Hassan Sajjad, Nadir Durrani, Fahim Dalvi, and James Glass.
-* [Arxiv18] [Robust Neural Machine Translation with Joint Textual and Phonetic Embedding](https://arxiv.org/abs/1810.06729) - Hairong Liu, Mingbo Ma, Liang Huang, Hao Xiong, Zhongjun He.
-* [Arxiv18] [Improving the Robustness of Speech Translation](https://arxiv.org/abs/1811.00728) - Xiang Li, Haiyang Xue, Wei Chen, Yang Liu, Yang Feng, Qun Liu.
-* [Arxiv18] [Seq2Sick: Evaluating the Robustness of Sequence-to-Sequence Models with Adversarial Examples](https://arxiv.org/pdf/1803.01128.pdf) - Minhao Cheng , Jinfeng Yi , Huan Zhang , Pin-Yu Chen , Cho-Jui Hsieh
-* [Arxiv18] [Greedy Attack and Gumbel Attack: Generating Adversarial Examples for Discrete Data](https://arxiv.org/pdf/1805.12316.pdf) - Puyudi Yang, Jianbo Chen, Cho-Jui Hsieh, Jane-Ling Wang, Michael I. Jordan.
+
+* [Arxiv18] [Robust Neural Machine Translation with Joint Textual and Phonetic Embedding](https://arxiv.org/abs/1810.06729) - Hairong Liu, Mingbo Ma, Liang Huang, Hao Xiong, and Zhongjun He.
+
+* [Arxiv18] [Improving the Robustness of Speech Translation](https://arxiv.org/abs/1811.00728) - Xiang Li, Haiyang Xue, Wei Chen, Yang Liu, Yang Feng, and Qun Liu.
+
+* [Arxiv18] [Seq2Sick: Evaluating the Robustness of Sequence-to-Sequence Models with Adversarial Examples](https://arxiv.org/pdf/1803.01128.pdf) - Minhao Cheng, Jinfeng Yi, Huan Zhang, Pin-Yu Chen, and Cho-Jui Hsieh.
+
+* [Arxiv18] [Greedy Attack and Gumbel Attack: Generating Adversarial Examples for Discrete Data](https://arxiv.org/pdf/1805.12316.pdf) - Puyudi Yang, Jianbo Chen, Cho-Jui Hsieh, Jane-Ling Wang, and Michael I. Jordan.
+
 * [ICLR18] [Synthetic and Natural Noise Both Break Neural Machine Translation](https://arxiv.org/abs/1711.02173) - Yonatan Belinkov and Yonatan Bisk.
+
 * [ACL18] [Towards Robust Neural Machine Translation](http://aclweb.org/anthology/P18-1163) - Yong Cheng, Zhaopeng Tu, Fandong Meng, Junjie Zhai, and Yang Liu.
+
 * [ACL18] [Did the Model Understand the Question?](https://arxiv.org/abs/1805.054923) - Pramod Kaushik Mudrakarta, Ankur Taly, Mukund Sundararajan, and Kedar Dhamdhere.
-* [ACL18] [Trick Me If You Can: Adversarial Writing of Trivia Challenge Questions [Student Research Workshop]](http://aclweb.org/anthology/P18-3018) - Eric Wallace, Jordan Boyd-Graber.
-* [EMNLP18] [Generating natural language adversarial examples](https://arxiv.org/abs/1804.07998) - Moustafa Alzantot, Yash Sharma, Ahmed Elgohary, Bo-Jhang Ho, Mani Srivastava, Kai-Wei Chang.
-* [NAACL18] [Adversarial Example Generation with Syntactically Controlled Paraphrase Networks](http://aclweb.org/anthology/N18-1170) - Mohit Iyyer, John Wieting, Kevin Gimpel, Luke Zettlemoyer 
-* [COLING18] [On Adversarial Examples for Character-Level Neural Machine Translation](http://aclweb.org/anthology/C18-1055) - Javid Ebrahimi, Daniel Lowd, Dejing Dou
+
+* [ACL18] [Trick Me If You Can: Adversarial Writing of Trivia Challenge Questions [Student Research Workshop]](http://aclweb.org/anthology/P18-3018) - Eric Wallace and Jordan Boyd-Graber.
+
+* [EMNLP18] [Generating natural language adversarial examples](https://arxiv.org/abs/1804.07998) - Moustafa Alzantot, Yash Sharma, Ahmed Elgohary, Bo-Jhang Ho, Mani Srivastava, and Kai-Wei Chang.
+
+* [NAACL18] [Adversarial Example Generation with Syntactically Controlled Paraphrase Networks](http://aclweb.org/anthology/N18-1170) - Mohit Iyyer, John Wieting, Kevin Gimpel, and Luke Zettlemoyer.
+
+* [COLING18] [On Adversarial Examples for Character-Level Neural Machine Translation](http://aclweb.org/anthology/C18-1055) - Javid Ebrahimi, Daniel Lowd, and Dejing Dou.
+
 * [ICLR17] [Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725) - Takeru Miyato, Andrew M. Dai, and Ian Goodfellow.
+
 * [EMNLP17] [Adversarial Examples for Evaluating Reading Comprehension Systems](https://arxiv.org/abs/1707.07328) - Robin Jia and Percy Liang.
+
 * [CSAW16] [Hidden Voice Commands](https://nicholas.carlini.com/papers/2016_usenix_hiddenvoicecommands.pdf) - Nicholas Carlini, Pratyush Mishra, Tavish Vaidya, Yuankai Zhang, Micah Sherr, Clay Shields, David Wagner, and Wenchao Zhou. [[talk]](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/carlini)
 
 
