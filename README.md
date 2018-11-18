@@ -67,7 +67,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 * [IJCAI17] [Tactics of Adversarial Attack on Deep Reinforcement Learning Agents](https://arxiv.org/abs/1703.06748) - Yen-Chen Lin, Zhang-Wei Hong, Yuan-Hong Liao, Meng-Li Shih, Ming-Yu Liu, and Min Sun.
 
 #### Real-World Attack
-* [CVPR17 Workshop] [NO Need to Worry about Adversarial Examples in Object Detection in Autonomous Vehicles](https://arxiv.org/abs/1707.03501) - Jiajun Lu, Hussein Sibai, Evan Fabry, and David Forsyth.
+* [CVPR17 Workshop] [NO Need to Worry about Adversarial Examples in Object Detection in Autonomous Vehicles](https://arxiv.org/abs/1707.03501) - Jiajun Lu, Hussein Sibai, Evan Fabry, and David Forsyth. [[slides]](http://www.jiajunlu.com/docs/AdversarialCar.pptx)
 
 * [CVPR18] [Robust Physical-World Attacks on Deep Learning Models](https://arxiv.org/abs/1707.08945) - Kevin Eykholt, Ivan Evtimov, Earlence Fernandes, Bo Li, Amir Rahmati, Chaowei Xiao, Atul Prakash, Tadayoshi Kohno, and Dawn Song.
 
