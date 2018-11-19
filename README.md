@@ -7,6 +7,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 ## Contents
 - [Conferences](#conferences)
 - [Journals](#journals)
+- [Blogs](#blogs)
 - [Competitions](#competitions)
 - [Papers](#papers)
     - [Computer Vision](#computer-vision)
@@ -47,6 +48,10 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 ###### *[Conference Deadlines](https://zbchern.github.io/conferences/)*
 
 ## Journals
+
+## Blogs
+* [Attacking Machine Learning with Adversarial Examples (OpenAI)](https://blog.openai.com/adversarial-example-research/)
+* [Cleverhans](http://www.cleverhans.io/)
 
 ## Competitions
 * [NIPS Adversarial Vision Challenge](https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge)
