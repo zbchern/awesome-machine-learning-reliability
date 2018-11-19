@@ -10,7 +10,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 - [Blogs](#blogs)
 - [Competitions](#competitions)
 - [Papers](#papers)
-    - [Computer Vision](#computer-vision)
+    - [Adversarial Computer Vision](#adversarial-computer-vision)
         - [Benchmarking](#benchmarking)
         - [Attack](#attack)
             - [Classification](#classification)
@@ -21,7 +21,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
             - [Manifold Projections](#manifold-projections)
             - [Detection](#detection)
             - [Model Compression](#model-compression)
-    - [Natural Language Processing and Speech](#natural-language-processing-and-speech)
+    - [Adversarial NLP and Speech](#adversarial-nlp-and-speech)
     - [Testing](#testing)
     - [Empirical Study](#empirical-study)
     - [Survey](#survey)
@@ -57,7 +57,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 * [NIPS Adversarial Vision Challenge](https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge)
 
 ## Papers
-### Computer Vision
+### Adversarial Computer Vision
  
 #### Attack
 ##### Classification
@@ -99,7 +99,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 
 * [S&P16] [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/abs/1511.04508) - Nicolas Papernot, Patrick McDaniel, Xi Wu, Somesh Jha, and Ananthram Swami.
 
-## Natural Language Processing and Speech
+## Adversarial NLP and Speech
 * [Arxiv18] [Identifying and Controlling Important Neurons in Neural Machine Translation](https://arxiv.org/abs/1811.01157) - Anthony Bau, Yonatan Belinkov, Hassan Sajjad, Nadir Durrani, Fahim Dalvi, and James Glass.
 
 * [Arxiv18] [Robust Neural Machine Translation with Joint Textual and Phonetic Embedding](https://arxiv.org/abs/1810.06729) - Hairong Liu, Mingbo Ma, Liang Huang, Hao Xiong, and Zhongjun He.
