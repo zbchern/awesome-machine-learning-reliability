@@ -144,7 +144,11 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 * [ECCV18] [Is Robustness the Cost of Accuracy? -- A Comprehensive Study on the Robustness of 18 Deep Image Classification Models](https://arxiv.org/abs/1808.01688) - Dong Su, Huan Zhang, Hongge Chen, Jinfeng Yi, Pin-Yu Chen, Yupeng Gao. [[code]](https://github.com/huanzhang12/Adversarial_Survey)
 
 ## Survey
-* [Arxiv18] [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://arxiv.org/abs/1801.00553) - Naveed Akhtar and Ajmal Mian.
+* [Arxiv17] [Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.org/abs/1712.07107) - Xiaoyong Yuan, Pan He, Qile Zhu, and Xiaolin Li.
+
+* [Arxiv18] [Adversarial Examples - A Complete Characterisation of the Phenomenon](https://arxiv.org/abs/1810.01185) - Alexandru Constantin Serban and Erik Poll.
+
+* [Arxiv18] [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://arxiv.org/abs/1801.00553) - Naveed Akhtar, and Ajmal Mian.
 
 ## Other Applications
 * [Arxiv17] [Black-Box Attacks against RNN based Malware Detection Algorithms](https://arxiv.org/abs/1705.08131) - Weiwei Hu, Ying Tan
