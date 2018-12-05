@@ -6,7 +6,6 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 
 ## Contents
 - [Conferences](#conferences)
-- [Journals](#journals)
 - [Blogs](#blogs)
 - [Competitions](#competitions)
 - [Papers](#papers)
@@ -44,14 +43,12 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 * [Conference on Empirical Methods in Natural Language Processing (EMNLP)](http://emnlp2018.org/)
 * [Annual Meeting of the Association for Computational Linguistics (ACL)](http://www.acl2019.org/EN/index.xhtml)
 
-
 ###### *[Conference Deadlines](https://zbchern.github.io/conferences/)*
 
-## Journals
-
 ## Blogs
-* [Attacking Machine Learning with Adversarial Examples (OpenAI)](https://blog.openai.com/adversarial-example-research/)
 * [Cleverhans](http://www.cleverhans.io/)
+* [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/)
+* [Attacking Machine Learning with Adversarial Examples (OpenAI)](https://blog.openai.com/adversarial-example-research/)
 
 ## Competitions
 * [NIPS Adversarial Vision Challenge](https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge)
