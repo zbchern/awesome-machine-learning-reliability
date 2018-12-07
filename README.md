@@ -51,7 +51,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 * [Attacking Machine Learning with Adversarial Examples (OpenAI)](https://blog.openai.com/adversarial-example-research/)
 
 ## Competitions
-* [NIPS Adversarial Vision Challenge](https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge)
+* [NeurIPS Adversarial Vision Challenge](https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge)
 
 ## Papers
 ### Adversarial Computer Vision
@@ -81,6 +81,11 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 #### Adversarial Training
 
 * [ICLR18] [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083) - Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, and Adrian Vladu. [[code (mnist)]](https://github.com/MadryLab/mnist_challenge) [[code (cifar10)]](https://github.com/MadryLab/cifar10_challenge)
+
+* [NeurIPS17] [Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser](https://arxiv.org/abs/1712.02976) - Fangzhou Liao, Ming Liang, Yinpeng Dong, Tianyu Pang, Xiaolin Hu, and Jun Zhu. [[code]](https://github.com/lfz/Guided-Denoise)
+
+* [Arxiv18] [Adversarial Logit Pairing](https://arxiv.org/abs/1803.06373) - Harini Kannan, Alexey Kurakin, and Ian Goodfellow. [[code]](https://github.com/tensorflow/models/tree/master/research/adversarial_logit_pairing)
+
 * [ICLR18] [Generating Natural Adversarial Examples](https://arxiv.org/abs/1710.11342) - Zhengli Zhao, Dheeru Dua, Sameer Singh
 
 #### Manifold Projections
@@ -88,7 +93,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 
 #### Detection
 
-* [NIPS18] [Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples](https://arxiv.org/abs/1810.11580) - Guanhong Tao, Shiqing Ma, Yingqi Liu, and Xiangyu Zhang.
+* [NeurIPS18] [Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples](https://arxiv.org/abs/1810.11580) - Guanhong Tao, Shiqing Ma, Yingqi Liu, and Xiangyu Zhang.
 
 * [AISec17] [Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods](https://arxiv.org/abs/1705.07263) - Nicholas Carlini and David Wagner.
 
