@@ -21,7 +21,8 @@ A curated list of awesome papers regarding machine learning reliability, inspire
             - [Detection](#detection)
             - [Model Compression](#model-compression)
     - [Adversarial NLP and Speech](#adversarial-nlp-and-speech)
-    - [Testing](#testing)
+    - [Provable and Verifiable AI Robustness](#provable-and-verifiable-ai-robustness)
+    - [Machine Learning Testing](#machine-learning-testing)
     - [Empirical Study](#empirical-study)
     - [Survey](#survey)
     - [Other Applications](#other-applications)
@@ -84,10 +85,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 * [Arxiv18] [Adversarial Logit Pairing](https://arxiv.org/abs/1803.06373) - Harini Kannan, Alexey Kurakin, and Ian Goodfellow. [[code]](https://github.com/tensorflow/models/tree/master/research/adversarial_logit_pairing)
 * [ICLR18] [Generating Natural Adversarial Examples](https://arxiv.org/abs/1710.11342) - Zhengli Zhao, Dheeru Dua, and Sameer Singh.
 
-#### Manifold Projections
-* [CCS17] [MagNet: A Two-Pronged Defense against Adversarial Examples](https://dl.acm.org/citation.cfm?id=3134057) - Dongyu Meng and Hao Chen.
-
-#### Detection
+#### Adversarial Detection
 
 * [NeurIPS18] [Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples](https://arxiv.org/abs/1810.11580) - Guanhong Tao, Shiqing Ma, Yingqi Liu, and Xiangyu Zhang.
 * [AISec17] [Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods](https://arxiv.org/abs/1705.07263) - Nicholas Carlini and David Wagner.
@@ -95,6 +93,9 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 #### Model Compression
 
 * [S&P16] [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/abs/1511.04508) - Nicolas Papernot, Patrick McDaniel, Xi Wu, Somesh Jha, and Ananthram Swami.
+
+#### Manifold Projections
+* [CCS17] [MagNet: A Two-Pronged Defense against Adversarial Examples](https://dl.acm.org/citation.cfm?id=3134057) - Dongyu Meng and Hao Chen.
 
 ## Adversarial NLP and Speech
 * [Arxiv18] [Identifying and Controlling Important Neurons in Neural Machine Translation](https://arxiv.org/abs/1811.01157) - Anthony Bau, Yonatan Belinkov, Hassan Sajjad, Nadir Durrani, Fahim Dalvi, and James Glass.
@@ -114,8 +115,13 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 * [MILCOM16] [Crafting Adversarial Input Sequences for Recurrent Neural Networks](https://arxiv.org/abs/1604.08275) - Nicolas Papernot, Patrick McDaniel, Ananthram Swami, and Richard Harang.
 * [CSAW16] [Hidden Voice Commands](https://nicholas.carlini.com/papers/2016_usenix_hiddenvoicecommands.pdf) - Nicholas Carlini, Pratyush Mishra, Tavish Vaidya, Yuankai Zhang, Micah Sherr, Clay Shields, David Wagner, and Wenchao Zhou. [[talk]](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/carlini)
 
+## Provable and Verifiable AI Robustness
+* [ICML18] [Differentiable Abstract Interpretation for Provably Robust Neural Networks](http://proceedings.mlr.press/v80/mirman18b/mirman18b.pdf) - Matthew Mirman, Timon Gehr, and Martin Vechev.
+* [Arxiv18] [On the Effectiveness of Interval Bound Propagation for Training Verifiably Robust Models](https://arxiv.org/abs/1810.12715) - Sven Gowal, Krishnamurthy Dvijotham, Robert Stanforth, Rudy Bunel, Chongli Qin, Jonathan Uesato, Relja Arandjelovic, Timothy Mann, and Pushmeet Kohli.
+* [Arxiv18] [Training for Faster Adversarial Robustness Verification via Inducing ReLU Stability](https://arxiv.org/abs/1809.03008) - Kai Y. Xiao, Vincent Tjeng, Nur Muhammad Shafiullah, and Aleksander Madry.
 
-## Testing
+
+## Machine Learning Testing
 * [FSE18] [MODE: Automated Neural Network Model Debugging via State Differential Analysis and Input Selection](https://www.cs.purdue.edu/homes/ma229/papers/FSE18.pdf) - Shiqing Ma, Yingqi Liu, Wen-Chuan Lee, Xiangyu Zhang, Ananth Grama.
 * [Arxiv18] [Testing Untestable Neural Machine Translation: An Industrial Case](https://arxiv.org/abs/1807.02340) - Wujie Zheng, Wenyu Wang, Dian Liu, Changrong Zhang, Qinsong Zeng, Yuetang Deng, Wei Yang, Pinjia He, Tao Xie.
 * [ASE18] [DeepGauge: Multi-Granularity Testing Criteria for Deep Learning Systems](https://arxiv.org/abs/1803.07519) - Lei Ma, Felix Juefei-Xu, Fuyuan Zhang, Jiyuan Sun, Minhui Xue, Bo Li, Chunyang Chen, Ting Su, Li Li, Yang Liu, Jianjun Zhao, Yadong Wang.
