@@ -12,8 +12,8 @@ A curated list of awesome papers regarding machine learning reliability, inspire
     - [Adversarial Computer Vision](#adversarial-computer-vision)
         - [Benchmarking](#benchmarking)
         - [Attack](#attack)
-            - [Classification](#classification)
-            - [Other CV Tasks](#other-cv-tasks)
+            - [White-box Attack](white-box-attack)
+            - [Black-box Attack](black-box-attack)
             - [Real-World Attack](#real-world-attack)
         - [Defense](#defense)
             - [Adversarial Training](#adversarial-training)
@@ -36,10 +36,12 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 * [IEEE Symposium on Security and Privacy (S&P)](https://www.ieee-security.org/TC/SP2018/)
 * [Usenix Security Symposium (Usenix Security)](https://www.usenix.org/conference/usenixsecurity18)
 * [The Network and Distributed System Security Symposium (NDSS)](https://www.ndss-symposium.org/)
+
 ### Machine Learning
 * [International Conference on Learning Representations (ICLR)](https://www.iclr.cc/)
 * [Annual Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc/)
 * [International Conference on Machine Learning (ICML)](https://icml.cc/)
+
 ### Natural Language Processing
 * [Conference on Empirical Methods in Natural Language Processing (EMNLP)](http://emnlp2018.org/)
 * [Annual Meeting of the Association for Computational Linguistics (ACL)](http://www.acl2019.org/EN/index.xhtml)
@@ -59,15 +61,16 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 ### Adversarial Computer Vision
  
 ### Attack
-#### Classification
-* [ICML18] [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://nicholas.carlini.com/papers/2018_icml_obfuscatedgradients.pdf) - Anish Athalye, Nicholas Carlini, and David Wagner. [[code]](https://github.com/anishathalye/obfuscated-gradients) [[talk]](https://nicholas.carlini.com/talks/2018_icml_obfuscatedgradients.mp4)
-* [S&P17] [Towards Evaluating the Robustness of Neural Networks](https://nicholas.carlini.com/papers/2017_sp_nnrobustattacks.pdf) - Nicholas Carlini and David Wagner. [[talk]](https://www.youtube.com/watch?v=yIXNL88JBWQ)
-* [AISec '17] [ZOO: Zeroth Order Optimization Based Black-box Attacks to Deep Neural Networks without Training Substitute Models](https://arxiv.org/abs/1708.03999) - Pin-Yu Chen, Huan Zhang, Yash Sharma, Jinfeng Yi, Cho-Jui Hsieh
+#### White-box Attack
 * [ICLR15] [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572) - Ian J. Goodfellow, Jonathon Shlens, and Christian Szegedy.
-
-#### Other CV Tasks
+* [S&P17] [Towards Evaluating the Robustness of Neural Networks](https://nicholas.carlini.com/papers/2017_sp_nnrobustattacks.pdf) - Nicholas Carlini and David Wagner. [[talk]](https://www.youtube.com/watch?v=yIXNL88JBWQ)
+* [ICML18] [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://nicholas.carlini.com/papers/2018_icml_obfuscatedgradients.pdf) - Anish Athalye, Nicholas Carlini, and David Wagner. [[code]](https://github.com/anishathalye/obfuscated-gradients) [[talk]](https://nicholas.carlini.com/talks/2018_icml_obfuscatedgradients.mp4)
 * [CVPR18] [Fooling Vision and Language Models Despite Localization and Attention Mechanism](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3295.pdf) - Xiaojun Xu, Xinyun Chen, Chang Liu, Anna Rohrbach, Trevor Darrell, and Dawn Song.
 * [IJCAI17] [Tactics of Adversarial Attack on Deep Reinforcement Learning Agents](https://arxiv.org/abs/1703.06748) - Yen-Chen Lin, Zhang-Wei Hong, Yuan-Hong Liao, Meng-Li Shih, Ming-Yu Liu, and Min Sun.
+
+#### Black-box Attack
+* [AISec17] [ZOO: Zeroth Order Optimization based Black-box Attacks to Deep Neural Networks without Training Substitute Models](https://arxiv.org/abs/1708.03999) - Pin-Yu Chen, Huan Zhang, Yash Sharma, Jinfeng Yi, and Cho-Jui Hsieh.
+* [Arxiv17] [Query-Efficient Black-box Adversarial Examples](https://arxiv.org/abs/1712.07113) - Andrew Ilyas, Logan Engstrom, Anish Athalye, and Jessy Lin.
 
 #### Real-World Attack
 * [CVPR18] [Robust Physical-World Attacks on Deep Learning Models](https://arxiv.org/abs/1707.08945) - Kevin Eykholt, Ivan Evtimov, Earlence Fernandes, Bo Li, Amir Rahmati, Chaowei Xiao, Atul Prakash, Tadayoshi Kohno, and Dawn Song.
