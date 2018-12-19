@@ -96,6 +96,8 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 #### Model Compression
 
 * [S&P16] [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/abs/1511.04508) - Nicolas Papernot, Patrick McDaniel, Xi Wu, Somesh Jha, and Ananthram Swami.
+* [ICLR18] [Attacking Binarized Neural Networks](https://arxiv.org/abs/1711.00449) - Angus Galloway, Graham W. Taylor, and Medhat Moussa.
+* [ICLR19_Submission] [Defensive Quantization: When Efficiency Meets Robustness](https://openreview.net/forum?id=ryetZ20ctX) - Anonymous Authors.
 
 #### Manifold Projections
 * [CCS17] [MagNet: A Two-Pronged Defense against Adversarial Examples](https://dl.acm.org/citation.cfm?id=3134057) - Dongyu Meng and Hao Chen.
