@@ -124,7 +124,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 ## Provable and Verifiable AI Robustness
 * [ICML18] [Differentiable Abstract Interpretation for Provably Robust Neural Networks](http://proceedings.mlr.press/v80/mirman18b/mirman18b.pdf) - Matthew Mirman, Timon Gehr, and Martin Vechev.
 * [ICML18] [Provable defenses against adversarial examples via the convex outer adversarial polytope](https://arxiv.org/abs/1711.00851) - Eric Wong and J. Zico Kolter. [[code]](https://github.com/locuslab/convex_adversarial)
-- [ICLR18] [Certified Defenses against Adversarial Examples](https://arxiv.org/abs/1801.09344) - Aditi Raghunathan, Jacob Steinhardt, and Percy Liang.
+* [ICLR18] [Certified Defenses against Adversarial Examples](https://arxiv.org/abs/1801.09344) - Aditi Raghunathan, Jacob Steinhardt, and Percy Liang.
 * [Arxiv18] [On the Effectiveness of Interval Bound Propagation for Training Verifiably Robust Models](https://arxiv.org/abs/1810.12715) - Sven Gowal, Krishnamurthy Dvijotham, Robert Stanforth, Rudy Bunel, Chongli Qin, Jonathan Uesato, Relja Arandjelovic, Timothy Mann, and Pushmeet Kohli.
 * [Arxiv18] [Training for Faster Adversarial Robustness Verification via Inducing ReLU Stability](https://arxiv.org/abs/1809.03008) - Kai Y. Xiao, Vincent Tjeng, Nur Muhammad Shafiullah, and Aleksander Madry.
 
