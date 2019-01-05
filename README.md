@@ -18,7 +18,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
         - [Defense](#defense)
             - [Adversarial Training](#adversarial-training)
             - [Manifold Projections](#manifold-projections)
-            - [Detection](#detection)
+            - [Adversarial Detection](#adversarial-detection)
             - [Model Compression](#model-compression)
     - [Adversarial NLP and Speech](#adversarial-nlp-and-speech)
     - [Provable and Verifiable AI Robustness](#provable-and-verifiable-ai-robustness)
@@ -92,8 +92,9 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 
 #### Adversarial Detection
 
-* [NeurIPS18] [Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples](https://arxiv.org/abs/1810.11580) - Guanhong Tao, Shiqing Ma, Yingqi Liu, and Xiangyu Zhang.
 * [AISec17] [Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods](https://arxiv.org/abs/1705.07263) - Nicholas Carlini and David Wagner.
+* [NDSS18] [Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks](https://arxiv.org/abs/1704.01155) - Weilin Xu, David Evans, and Yanjun Qi.
+* [NeurIPS18] [Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples](https://arxiv.org/abs/1810.11580) - Guanhong Tao, Shiqing Ma, Yingqi Liu, and Xiangyu Zhang.
 
 #### Model Compression
 
