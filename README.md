@@ -68,6 +68,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 * [CVPR18] [Fooling Vision and Language Models Despite Localization and Attention Mechanism](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3295.pdf) - Xiaojun Xu, Xinyun Chen, Chang Liu, Anna Rohrbach, Trevor Darrell, and Dawn Song.
 * [IJCAI17] [Tactics of Adversarial Attack on Deep Reinforcement Learning Agents](https://arxiv.org/abs/1703.06748) - Yen-Chen Lin, Zhang-Wei Hong, Yuan-Hong Liao, Meng-Li Shih, Ming-Yu Liu, and Min Sun.
 * [S&P16] [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528) - Nicolas Papernot, Patrick McDaniel, Somesh Jha, Matt Fredrikson, Z. Berkay Celik, and Ananthram Swami.
+* [CVPR16] [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599) - Seyed-Mohsen Moosavi-Dezfooli, Alhussein Fawzi, and Pascal Frossard.
 
 #### Black-box Attack
 * [Arxiv16] [Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples](https://arxiv.org/abs/1605.07277) - Nicolas Papernot, Patrick McDaniel, and Ian Goodfellow.
