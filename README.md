@@ -67,6 +67,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 * [ICML18] [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://nicholas.carlini.com/papers/2018_icml_obfuscatedgradients.pdf) - Anish Athalye, Nicholas Carlini, and David Wagner. [[code]](https://github.com/anishathalye/obfuscated-gradients) [[talk]](https://nicholas.carlini.com/talks/2018_icml_obfuscatedgradients.mp4)
 * [CVPR18] [Fooling Vision and Language Models Despite Localization and Attention Mechanism](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3295.pdf) - Xiaojun Xu, Xinyun Chen, Chang Liu, Anna Rohrbach, Trevor Darrell, and Dawn Song.
 * [IJCAI17] [Tactics of Adversarial Attack on Deep Reinforcement Learning Agents](https://arxiv.org/abs/1703.06748) - Yen-Chen Lin, Zhang-Wei Hong, Yuan-Hong Liao, Meng-Li Shih, Ming-Yu Liu, and Min Sun.
+* [S&P16] [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528) - Nicolas Papernot, Patrick McDaniel, Somesh Jha, Matt Fredrikson, Z. Berkay Celik, and Ananthram Swami.
 
 #### Black-box Attack
 * [Arxiv16] [Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples](https://arxiv.org/abs/1605.07277) - Nicolas Papernot, Patrick McDaniel, and Ian Goodfellow.
@@ -74,9 +75,10 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 * [Arxiv17] [Query-Efficient Black-box Adversarial Examples](https://arxiv.org/abs/1712.07113) - Andrew Ilyas, Logan Engstrom, Anish Athalye, and Jessy Lin.
 
 #### Real-world Attack
-* [CVPR17 Workshop] [NO Need to Worry about Adversarial Examples in Object Detection in Autonomous Vehicles](https://arxiv.org/abs/1707.03501) - Jiajun Lu, Hussein Sibai, Evan Fabry, and David Forsyth. [[slides]](http://www.jiajunlu.com/docs/AdversarialCar.pptx)
 * [CVPR18] [Robust Physical-World Attacks on Deep Learning Models](https://arxiv.org/abs/1707.08945) - Kevin Eykholt, Ivan Evtimov, Earlence Fernandes, Bo Li, Amir Rahmati, Chaowei Xiao, Atul Prakash, Tadayoshi Kohno, and Dawn Song.
 * [ICML18] [Synthesizing Robust Adversarial Examples](https://arxiv.org/abs/1707.07397) - Anish Athalye, Logan Engstrom, Andrew Ilyas, and Kevin Kwok.
+* [CVPR17 Workshop] [NO Need to Worry about Adversarial Examples in Object Detection in Autonomous Vehicles](https://arxiv.org/abs/1707.03501) - Jiajun Lu, Hussein Sibai, Evan Fabry, and David Forsyth. [[slides]](http://www.jiajunlu.com/docs/AdversarialCar.pptx)
+* [ICLR17] [Adversarial Examples in the Physical World](https://arxiv.org/abs/1607.02533) - Alexey Kurakin, Ian Goodfellow, and Samy Bengio.
 
 #### Benchmarking
 * [ICLR19] [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://openreview.net/forum?id=HJz6tiCqYm) - Dan Hendrycks and Thomas Dietterich.
