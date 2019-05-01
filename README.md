@@ -62,6 +62,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
  
 ### Attack
 #### White-box Attack
+* [ICLR14] [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199) - Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, and Rob Fergus.
 * [ICLR15] [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572) - Ian J. Goodfellow, Jonathon Shlens, and Christian Szegedy.
 * [S&P17] [Towards Evaluating the Robustness of Neural Networks](https://nicholas.carlini.com/papers/2017_sp_nnrobustattacks.pdf) - Nicholas Carlini and David Wagner. [[code]](https://github.com/carlini/nn_robust_attacks) [[talk]](https://www.youtube.com/watch?v=yIXNL88JBWQ)
 * [ICML18] [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://nicholas.carlini.com/papers/2018_icml_obfuscatedgradients.pdf) - Anish Athalye, Nicholas Carlini, and David Wagner. [[code]](https://github.com/anishathalye/obfuscated-gradients) [[talk]](https://nicholas.carlini.com/talks/2018_icml_obfuscatedgradients.mp4)
