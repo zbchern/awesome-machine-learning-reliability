@@ -23,8 +23,8 @@ A curated list of awesome papers regarding machine learning reliability, inspire
     - [Adversarial NLP and Speech](#adversarial-nlp-and-speech)
     - [Provable and Verifiable AI Robustness](#provable-and-verifiable-ai-robustness)
     - [Machine Learning Testing](#machine-learning-testing)
-    - [Empirical Study](#empirical-study)
     - [Survey](#survey)
+    - [Empirical Study](#empirical-study)
     - [Other Applications](#other-applications)
     - [Other Resources](#other-resources)
 - [License](#license)
@@ -143,17 +143,17 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 * [SOSP17] [DeepXplore: Automated Whitebox Testing of Deep Learning Systems](https://arxiv.org/abs/1705.06640) - Kexin Pei, Yinzhi Cao, Junfeng Yang, Suman Jana.
 * [KDD16] ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) - Marco Tulio Ribeiro, Sameer Singh, and Carlos Guestrin. [[code]](https://github.com/marcotcr/lime), [[slides]](https://drive.google.com/file/d/0ByblrZgHugfYZ0ZCSWNPWFNONEU/view), [[video]](https://www.youtube.com/watch?v=hUnRCxnydCc)
 
-## Empirical Study
-* [ECCV18] [Is Robustness the Cost of Accuracy? -- A Comprehensive Study on the Robustness of 18 Deep Image Classification Models](https://arxiv.org/abs/1808.01688) - Dong Su, Huan Zhang, Hongge Chen, Jinfeng Yi, Pin-Yu Chen, Yupeng Gao. [[code]](https://github.com/huanzhang12/Adversarial_Survey)
-
 ## Survey
 * [Arxiv17] [Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.org/abs/1712.07107) - Xiaoyong Yuan, Pan He, Qile Zhu, and Xiaolin Li.
 * [Arxiv18] [Adversarial Examples - A Complete Characterisation of the Phenomenon](https://arxiv.org/abs/1810.01185) - Alexandru Constantin Serban and Erik Poll.
-* [Arxiv18] [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://arxiv.org/abs/1801.00553) - Naveed Akhtar, and Ajmal Mian.
+* [Arxiv18] [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://arxiv.org/abs/1801.00553) - Naveed Akhtar and Ajmal Mian.
+* [Arxiv19] [Adversarial Examples: Opportunities and Challenges](https://arxiv.org/abs/1809.04790) - Jiliang Zhang and Chen Li.
+
+## Empirical Study
+* [ECCV18] [Is Robustness the Cost of Accuracy? -- A Comprehensive Study on the Robustness of 18 Deep Image Classification Models](https://arxiv.org/abs/1808.01688) - Dong Su, Huan Zhang, Hongge Chen, Jinfeng Yi, Pin-Yu Chen, Yupeng Gao. [[code]](https://github.com/huanzhang12/Adversarial_Survey)
 
 ## Other Applications
 * [Arxiv17] [Black-Box Attacks against RNN based Malware Detection Algorithms](https://arxiv.org/abs/1705.08131) - Weiwei Hu, Ying Tan
-
 
 ## Other Resources
 * [Trustworthy Machine Learning](http://trustworthymachinelearning.org/) - A suite of tools for making machine learning secure and trustworthy
