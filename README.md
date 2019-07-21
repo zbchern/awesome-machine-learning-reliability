@@ -77,6 +77,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 * [Arxiv17] [Query-Efficient Black-box Adversarial Examples](https://arxiv.org/abs/1712.07113) - Andrew Ilyas, Logan Engstrom, Anish Athalye, and Jessy Lin.
 
 #### Real-world Attack
+* [Arxiv19] [Natural Adversarial Examples](https://arxiv.org/abs/1907.07174) - Dan Hendrycks, Kevin Zhao, Steven Basart, Jacob Steinhardt, and Dawn Song. [[dataset]](https://github.com/hendrycks/natural-adv-examples)
 * [CVPR18] [Robust Physical-World Attacks on Deep Learning Models](https://arxiv.org/abs/1707.08945) - Kevin Eykholt, Ivan Evtimov, Earlence Fernandes, Bo Li, Amir Rahmati, Chaowei Xiao, Atul Prakash, Tadayoshi Kohno, and Dawn Song.
 * [ICML18] [Synthesizing Robust Adversarial Examples](https://arxiv.org/abs/1707.07397) - Anish Athalye, Logan Engstrom, Andrew Ilyas, and Kevin Kwok.
 * [CVPR17 Workshop] [NO Need to Worry about Adversarial Examples in Object Detection in Autonomous Vehicles](https://arxiv.org/abs/1707.03501) - Jiajun Lu, Hussein Sibai, Evan Fabry, and David Forsyth. [[slides]](http://www.jiajunlu.com/docs/AdversarialCar.pptx)
