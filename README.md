@@ -20,6 +20,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
             - [Manifold Projections](#manifold-projections)
             - [Adversarial Detection](#adversarial-detection)
             - [Model Compression](#model-compression)
+            - [Manifold Projections](#manifold-projections)
     - [Adversarial NLP and Speech](#adversarial-nlp-and-speech)
     - [Provable and Verifiable AI Robustness](#provable-and-verifiable-ai-robustness)
     - [Machine Learning Testing](#machine-learning-testing)
