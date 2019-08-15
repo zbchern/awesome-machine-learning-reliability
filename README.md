@@ -139,6 +139,7 @@ A curated list of awesome papers regarding machine learning reliability, inspire
 
 
 ## Machine Learning Testing
+* [Arxiv19] [Machine Learning Testing: Survey, Landscapes and Horizons](https://arxiv.org/abs/1906.10742) - Jie M. Zhang, Mark Harman, Lei Ma, and Yang Liu.
 * [FSE18] [MODE: Automated Neural Network Model Debugging via State Differential Analysis and Input Selection](https://www.cs.purdue.edu/homes/ma229/papers/FSE18.pdf) - Shiqing Ma, Yingqi Liu, Wen-Chuan Lee, Xiangyu Zhang, Ananth Grama.
 * [Arxiv18] [Testing Untestable Neural Machine Translation: An Industrial Case](https://arxiv.org/abs/1807.02340) - Wujie Zheng, Wenyu Wang, Dian Liu, Changrong Zhang, Qinsong Zeng, Yuetang Deng, Wei Yang, Pinjia He, Tao Xie.
 * [ASE18] [DeepGauge: Multi-Granularity Testing Criteria for Deep Learning Systems](https://arxiv.org/abs/1803.07519) - Lei Ma, Felix Juefei-Xu, Fuyuan Zhang, Jiyuan Sun, Minhui Xue, Bo Li, Chunyang Chen, Ting Su, Li Li, Yang Liu, Jianjun Zhao, Yadong Wang.
